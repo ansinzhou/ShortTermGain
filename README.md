@@ -8,8 +8,11 @@ When 5 day moving average crosses above Acceleration line, does it signal a gain
 4. [Results](#Results)
 5. [Licensing, Authors, Acknowledgements](#Licensing)
 
+
+
 ## Installation <a name="installation"></a>
 The code assumes you use Anaconda (Python 3) and no additional libraries needs to be installed.
+
 
 
 ## Motivation <a name="Motivation"></a>
@@ -21,18 +24,22 @@ As part of the activities of Udacity's Data Science Nanodegree I'm enrolled, I h
 5. To answer question 1, is the model fit to predcit price movement in future investment opportunities?
 
 
+
 ## Repository Structure <a name="Structure"></a>
 - The ipyinb file is the code notebook file containing all the codes written to clean and wrangle data, to analyzing data and producing model and graphs.
 - The csv file is the raw file supplied by Pan-Origins LLC, containing raw data over the last three years, of their indicators. including the features and targets used in this project.
 - The assets folder contains graphs and pictures generated and produced that is used in the deployment of this projet on the blog site.
 
 
+
 ## Results <a name="Results"></a>
 A more detailed description of the project, its analyses and insights can be found at the post available here.
 
 
-## Licensing, Authors, Acknowledgements <a name="Licensing"></a>
 
+## Licensing, Authors, Acknowledgements <a name="Licensing"></a>
+Must give special thanks to Pan-Origins LLC for providing the csv data, which is availble for public use. Feel free to use the code provided that you give credits / cite this repo, as well as to contribute.
+Codes that were referrenced are found at : https://medium.com/@garg.mohit851/random-forest-visualization-3f76cdf6456f
 
 
 
