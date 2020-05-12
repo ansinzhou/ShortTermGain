@@ -33,7 +33,8 @@ As part of the activities of Udacity's Data Science Nanodegree I'm enrolled, I h
 
 
 ## Results <a name="Results"></a>
-A more detailed description of the project, its analyses and insights can be found at the post available here.
+A more detailed description of the project, its analyses and insights can be found at the post available here:
+https://medium.com/@ansin0517/quantitative-hedgefunds-what-happens-when-your-5-day-moving-average-crosses-above-the-c357bd8e16b7
 
 
 
