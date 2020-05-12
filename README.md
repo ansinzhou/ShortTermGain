@@ -4,8 +4,8 @@ When 5 day moving average crosses above Acceleration line, does it signal a gain
 # Table of contents
 1. [Installation](#Installation)
 2. [Motivation](#Motivation)
-3. [Repository Structure / Files](#paragraph2)
-4. [Results]
+3. [Repository Structure](#Repository Structure)
+4. [Results](#Results)
 5. [Licensing, Authors, Acknowledgements]
 
 ## Installation <a name="installation"></a>
@@ -21,7 +21,7 @@ As part of the activities of Udacity's Data Science Nanodegree I'm enrolled, I h
 5. To answer question 1, is the model fit to predcit price movement in future investment opportunities?
 
 
-## Repository Structure / Files <a name="Repository Structure / Files"></a>
+## Repository Structure / Files <a name="Repository Structure"></a>
 - The ipyinb file is the code notebook file containing all the codes written to clean and wrangle data, to analyzing data and producing model and graphs.
 - The csv file is the raw file supplied by Pan-Origins LLC, containing raw data over the last three years, of their indicators. including the features and targets used in this project.
 - The assets folder contains graphs and pictures generated and produced that is used in the deployment of this projet on the blog site.
