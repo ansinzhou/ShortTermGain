@@ -6,7 +6,7 @@ When 5 day moving average crosses above Acceleration line, does it signal a gain
 2. [Motivation](#Motivation)
 3. [Repository Structure](#Repository Structure)
 4. [Results](#Results)
-5. [Licensing, Authors, Acknowledgements]
+5. [Licensing, Authors, Acknowledgements](#Licensing)
 
 ## Installation <a name="installation"></a>
 The code assumes you use Anaconda (Python 3) and no additional libraries needs to be installed.
@@ -28,4 +28,11 @@ As part of the activities of Udacity's Data Science Nanodegree I'm enrolled, I h
 
 
 ## Results <a name="Results"></a>
-The second paragraph text
+A more detailed description of the project, its analyses and insights can be found at the post available here.
+
+
+## Licensing, Authors, Acknowledgements <a name="Licensing"></a>
+
+
+
+
